@@ -14,6 +14,13 @@ The video is half the grade. Explain each function, what goes in, and what comes
 
 **Your demo:** _add your link here_
 
+## Functions
+
+- average: gets the array and creates the average
+- printSummary: grabs the average and prints out the average
+- printMenu: simply prints out text for a menu, grabs nothing
+- getHigh: grabs the highest number from the array
+- main: initializes main 
 
 ## What to build
 
